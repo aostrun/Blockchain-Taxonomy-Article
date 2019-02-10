@@ -289,5 +289,10 @@ Systems that have external origin do not maintain their own distributed ledger (
 
 
 
+## Conclusion
+Taxonomy described in this article is comprehensive and robust enough to classify all of the current DLTs and should be robust enough to cover all of the current trends but it can be easily expanded and modified in the future is there is a need to do so.
+
+
+
 ## References
 [1] Ballandies, Mark C., Marcus M. Dapp, and Evangelos Pournaras. "Decrypting Distributed Ledger Design-Taxonomy, Classification and Blockchain Community Evaluation." arXiv preprint arXiv:1811.03419 (2018).
