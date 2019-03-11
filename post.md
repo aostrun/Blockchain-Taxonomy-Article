@@ -265,7 +265,7 @@ Systems that have external origin do not maintain their own distributed ledger (
 | Ethereum             |      Public      |     Public      |     No     |
 | IOTA                 |      Public      |     Public      |     No     |
 | Ripple               |    Restricted    |   Restricted    |    Yes     |
-| Hyperledger (Fabric) |        -         |   Restricted    |     -      |
+| Hyperledger (Fabric) |    Restricted    |   Restricted    |     No     |
 | Storj                |      Public      |     Public      |    Yes     |
 | Golem                |      Public      |     Public      |    Yes     |
 | EOS                  |      Public      |   Restricted    |     No     |
