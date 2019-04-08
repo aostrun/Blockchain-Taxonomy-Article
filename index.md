@@ -7,7 +7,7 @@ This article will describe the taxonomy created by Mark C. Ballandies, Marcus M.
 The taxonomy described by the paper [1] consists of four components across two dimensions to classify DLT systems.
 The first dimension concerns system design aspects related to the **distributed ledger technology (DLT)** - *distributed ledger (DL) component and consensus component*, while the second concerns **cryptoeconomic design aspects (CED)** - *action component and Token component*.
 
-![Overview of the taxonomy](./img/taxonomy_overview.JPG)
+![Overview of the taxonomy](./img/taxonomy_overview.JPG) <br/>
 *Overview of the taxonomy, depicting the two dimensions of DLT and CED, its four components and 19 attributes (Image source [1])*
 
 ### Distributed Ledger Technology (DLT) Dimension
@@ -28,7 +28,7 @@ The attributes of the distributed ledger component are:
 > - *other*. 
 > 
 > The blockchain is an immutable and append-only linked list, which has a total order of elements. It is the most known and used by a majority of systems (Bitcoin, Ethereum, Litecoin, etc.). In contrast to these systems, IOTA uses a directed acyclic graph. This data structure is no longer a linked list, but a directed graph with no cycles, leading to a partial order of elements. Moreover, Ripple neither uses a blockchain nor a DAG, but operates on other consensus based accounting mechanism. <br/><br/>
-  ![blockchain_vs_dag](img/blockchain_vs_dag.png)
+  ![blockchain_vs_dag](img/blockchain_vs_dag.png) <br/>
   *Blockchain vs DAG illustration (Image source: IOTA)*
 
 - **origin** (*native, external or hybrid*)
